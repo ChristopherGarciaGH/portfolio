@@ -6,72 +6,60 @@ using System.Threading.Tasks;
 
 namespace PooEnCSharp
 {
+    public class ResultadoPalindromo()
+    {
+        public string FraseInversa { get; set; } = "";
+        public string Frase { get; set; } = "";
+        public bool Sucess { get; set; } = true;
+    }
+
     internal class Palindromo
     {
-        private string s;
+        private string _s = "";
 
         public string S
         {
-            get { return s; }
-            set { s = value; }
+            get { return _s; }
         }
 
         public Palindromo(string s)
         {
-            this.s = s;
+            this._s = s;
         }
 
-        public bool esPalindromo()
+        public ResultadoPalindromo esPalindromo()
 
         {
-
-            //Pasamos a minusculas
-            string minusculas = s.ToLower();
-
-            //Quitamos los espacios
+            ResultadoPalindromo resultadoPalindromo = new ResultadoPalindromo();
+            string minusculas = _s.ToLower();
             string sinEspacios = "";
             int i = 0;
-
 
             while (i < minusculas.Length)
             {
                 if (minusculas[i] != ' ')
                 {
                     sinEspacios += minusculas[i];
+                    resultadoPalindromo.Frase += minusculas[i];
                 }
                 i++;
             }
 
-            //Console.WriteLine(sinEspacios);
-
-            //Comprobamos si es palindromo invirtiendo la variable sinEspacios
             int j = sinEspacios.Length - 1;
-            String inversa = "";
 
 
             while (j >= 0)
             {
-                inversa += sinEspacios[j];
+                resultadoPalindromo.FraseInversa += sinEspacios[j];
                 j--;
             }
 
-            //Console.WriteLine("El string invertido es " + inversa);
 
-
-            //Comprobamos si es un palindromo
-
-            if (sinEspacios == inversa)
+            if (resultadoPalindromo.Frase == resultadoPalindromo.FraseInversa)
             {
-                Console.WriteLine("Es palindromo");
-                return true;
+                resultadoPalindromo.Sucess = true;
             }
-            else
-            {
-                Console.WriteLine("No es palindromo");
-                return false;
-            }
-
-
+            return resultadoPalindromo;
         }
     }
 }

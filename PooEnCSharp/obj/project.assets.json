@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\PooEnCSharp\\PooEnCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PooEnCSharp.csproj",
       "projectName": "PooEnCSharp",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\PooEnCSharp\\PooEnCSharp.csproj",
+      "projectPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PooEnCSharp.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\PooEnCSharp\\obj\\",
+      "outputPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

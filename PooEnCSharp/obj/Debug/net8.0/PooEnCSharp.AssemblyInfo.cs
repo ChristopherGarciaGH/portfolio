@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PooEnCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a354f99ec123b7562853710bbdea8aeac7883f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PooEnCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PooEnCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
