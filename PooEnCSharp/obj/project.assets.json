@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PooEnCSharp.csproj",
-      "projectName": "PooEnCSharp",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PooEnCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PruebasTecnicas.csproj",
+      "projectName": "PruebasTecnicas",
+      "projectPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PruebasTecnicas.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\obj\\",
       "projectStyle": "PackageReference",
