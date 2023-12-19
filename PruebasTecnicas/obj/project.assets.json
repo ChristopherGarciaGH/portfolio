@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PruebasTecnicas.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PruebasTecnicas\\PruebasTecnicas.csproj",
       "projectName": "PruebasTecnicas",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\PruebasTecnicas.csproj",
+      "projectPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PruebasTecnicas\\PruebasTecnicas.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PooEnCSharp\\obj\\",
+      "outputPath": "C:\\Users\\chris\\OneDrive\\Escritorio\\Desarrollo de Aplicaciones Multiplataforma\\Roadmap\\App\\PruebasTecnicas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

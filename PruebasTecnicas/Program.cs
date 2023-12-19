@@ -53,5 +53,19 @@ internal class Program
             Console.WriteLine($"El numero {Numbers} no es un numero feliz");
         }
 
+        String _ransomNote = "aa";
+        String _magazine = "aab";
+
+        RansomNote rn = new RansomNote(_ransomNote,_magazine);
+        ResultadoRansomNote resultadoRansomNote = rn.CanConstruct();
+
+        if (resultadoRansomNote.Sucess = true)
+        {
+            Console.WriteLine($"Se puede construir RansomNote {_ransomNote} con las palabras obtenidas de {_magazine}");
+        }
+        else
+        {
+            Console.WriteLine("No se puede construir una RansomNote");
+        }
     }
 }
