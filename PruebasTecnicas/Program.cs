@@ -67,5 +67,10 @@ internal class Program
         {
             Console.WriteLine("No se puede construir una RansomNote");
         }
+
+        int[] height = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
+        MaxArea mx = new MaxArea(height);
+        ResultadoMaxArea rmx = mx.Contenedor();
+        Console.WriteLine($"La superficie maxima obtenida del array es {rmx.SuperficieContenedor}");
     }
 }
