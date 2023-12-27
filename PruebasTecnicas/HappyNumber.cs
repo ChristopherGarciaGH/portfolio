@@ -22,7 +22,7 @@ namespace PruebasTecnicas
             this._n = n;
         }
 
-        public ResultadoHappyNumber isHappyNumber()
+        public ResultadoHappyNumber IsHappyNumber()
         {
             ResultadoHappyNumber resultadoHappyNumber = new ResultadoHappyNumber();
             if (_n <= 0)
@@ -33,11 +33,11 @@ namespace PruebasTecnicas
             else
             {
                 //Convertir int a string
-                String Numero = _n.ToString();
+                String numero = _n.ToString();
                 List<int> NumeroSeparado = new List<int>();
 
 
-                foreach (var item in Numero)
+                foreach (var item in numero)
                 {
                     if (int.TryParse(item.ToString(), out int NumeroLista))
                     {

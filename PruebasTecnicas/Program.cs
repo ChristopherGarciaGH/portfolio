@@ -40,9 +40,10 @@ internal class Program
 
         */
 
+        /*
         int Numbers = 19;
         HappyNumber hn = new HappyNumber(Numbers);
-        ResultadoHappyNumber Resultado = hn.isHappyNumber();
+        ResultadoHappyNumber Resultado = hn.IsHappyNumber();
 
         if (Resultado.Sucess == true)
         {
@@ -52,7 +53,9 @@ internal class Program
         {
             Console.WriteLine($"El numero {Numbers} no es un numero feliz");
         }
+        */
 
+        /*
         String _ransomNote = "aa";
         String _magazine = "aab";
 
@@ -67,10 +70,24 @@ internal class Program
         {
             Console.WriteLine("No se puede construir una RansomNote");
         }
+        
 
+        
         int[] height = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
         MaxArea mx = new MaxArea(height);
         ResultadoMaxArea rmx = mx.Contenedor();
         Console.WriteLine($"La superficie maxima obtenida del array es {rmx.SuperficieContenedor}");
+        */
+
+        /*
+        int[] _secuencia = { 100, 4, 200, 1, 3, 2 };
+        LongestConsecutiveSequence longestConsecutiveSequence = new LongestConsecutiveSequence(_secuencia);
+        SecuenciaMasLarga Resultado = longestConsecutiveSequence.SecuenciaObjetivo();
+        Console.WriteLine(Resultado.Secuencia);
+        */
+        String path = "/home//foo/";
+        SimplifyPath simplifyPath = new SimplifyPath(path);
+        ResultadoRutaSimplificada resultadoRutaSimplificada = simplifyPath.RutaCanonica();
+        Console.WriteLine(resultadoRutaSimplificada.Resultado);
     }
 }
