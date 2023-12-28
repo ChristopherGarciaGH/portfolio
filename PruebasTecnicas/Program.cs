@@ -79,12 +79,12 @@ internal class Program
         Console.WriteLine($"La superficie maxima obtenida del array es {rmx.SuperficieContenedor}");
         */
 
-        /*
+        
         int[] _secuencia = { 100, 4, 200, 1, 3, 2 };
         LongestConsecutiveSequence longestConsecutiveSequence = new LongestConsecutiveSequence(_secuencia);
         SecuenciaMasLarga Resultado = longestConsecutiveSequence.SecuenciaObjetivo();
         Console.WriteLine(Resultado.Secuencia);
-        */
+        
         String path = "/home//foo/";
         SimplifyPath simplifyPath = new SimplifyPath(path);
         ResultadoRutaSimplificada resultadoRutaSimplificada = simplifyPath.RutaCanonica();

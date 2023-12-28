@@ -23,8 +23,15 @@ namespace PruebasTecnicas
         {
             ResultadoRutaSimplificada resultadoRutaSimplificada = new ResultadoRutaSimplificada();
             String[] Ruta = _path.Split('/');
+            Stack<String> RutaStack = AgregarPila(Ruta);
+            resultadoRutaSimplificada.Resultado = ConstruirRuta(RutaStack);
+            return resultadoRutaSimplificada;
+            
+        }
+        
+        private Stack<String> AgregarPila(String[] Ruta)
+        {
             Stack<String> RutaStack = new Stack<String>();
-
             foreach (String item in Ruta)
             {
                 if (item == "..")
@@ -34,23 +41,26 @@ namespace PruebasTecnicas
                         RutaStack.Pop();
                     }
                 }
-                else if(!string.IsNullOrEmpty(item)) 
+                else if (!string.IsNullOrEmpty(item))
                 {
                     RutaStack.Push(item);
                 }
             }
+            return RutaStack;
+        }
 
+        private String ConstruirRuta(Stack<String> RutaStack)
+        {
             if (RutaStack.Count == 0)
             {
-                resultadoRutaSimplificada.Resultado = "/";
-                return resultadoRutaSimplificada;
+                return "/";
             }
             else
             {
                 String[] RutaLista = RutaStack.ToArray();
-                resultadoRutaSimplificada.Resultado = "/" + String.Join("/", RutaLista);
-                return resultadoRutaSimplificada;
+                return "/" + string.Join("/", RutaLista);
             }
         }
+
     }
 }
