@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -58,7 +59,13 @@ namespace PruebasTecnicas
             else
             {
                 String[] RutaLista = RutaStack.ToArray();
-                return "/" + string.Join("/", RutaLista);
+                // Build the simplified path using the stack
+                StringBuilder result = new StringBuilder();
+                while (RutaStack.Count > 0)
+                {
+                    result.Insert(0, "/" + RutaStack.Pop());
+                }
+                return result.ToString();
             }
         }
 

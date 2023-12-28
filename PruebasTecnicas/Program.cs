@@ -85,7 +85,7 @@ internal class Program
         SecuenciaMasLarga Resultado = longestConsecutiveSequence.SecuenciaObjetivo();
         Console.WriteLine(Resultado.Secuencia);
         
-        String path = "/home//foo/";
+        String path = "/1/2/3/4/";
         SimplifyPath simplifyPath = new SimplifyPath(path);
         ResultadoRutaSimplificada resultadoRutaSimplificada = simplifyPath.RutaCanonica();
         Console.WriteLine(resultadoRutaSimplificada.Resultado);
