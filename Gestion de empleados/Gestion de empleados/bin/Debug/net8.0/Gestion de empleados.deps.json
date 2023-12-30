@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gestion de empleados/1.0.0": {
+        "runtime": {
+          "Gestion de empleados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestion de empleados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\bin\Debug\net8.0\Gestion de empleados.exe
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\bin\Debug\net8.0\Gestion de empleados.deps.json
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\bin\Debug\net8.0\Gestion de empleados.runtimeconfig.json
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\bin\Debug\net8.0\Gestion de empleados.dll
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\bin\Debug\net8.0\Gestion de empleados.pdb
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.sourcelink.json
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.dll
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\refint\Gestion de empleados.dll
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.pdb
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\Gestion de empleados.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Escritorio\Desarrollo de Aplicaciones Multiplataforma\Roadmap\App\Gestion de empleados\Gestion de empleados\obj\Debug\net8.0\ref\Gestion de empleados.dll
