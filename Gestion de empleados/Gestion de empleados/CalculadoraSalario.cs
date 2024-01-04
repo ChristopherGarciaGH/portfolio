@@ -37,7 +37,7 @@ namespace Gestion_de_empleados
 
             /*
              * Version simplificada:
-             * if(_lista.Find(i => i.Id == Item.Id= == null)
+             * if(_lista.Find(i => i.Id == item.Id == null)
              * {
              * _lista.Add(item);
              */
@@ -107,6 +107,30 @@ namespace Gestion_de_empleados
              * }
              */
             _lista.RemoveAll(item => !idsUnicos.Add(item.Id));
+        }
+
+        public double CalcularSueldoTotal()
+        {
+            if (_lista.Count == 0)
+            {
+                throw new InvalidOperationException("La lista no puede estar vacia");
+            }
+            else
+            {
+                return _lista.Sum(x => x.CalcularSalario());
+            }
+        }
+        
+        public double SalarioMasAlto()
+        {
+            if (_lista.Count == 0)
+            {
+                throw new InvalidOperationException("La lista no puede estar vacia");
+            }
+            else
+            {
+                return _lista.Max(x => x.CalcularSalario());
+            }
         }
     }
 }

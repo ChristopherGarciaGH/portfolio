@@ -16,6 +16,6 @@ namespace Gestion_de_empleados
             return SalarioBase + Suplidos + disponibilidad;
         }
 
-        public bool SalarioAlto() => (this.CalcularSalario() > 3000);
+        public bool SalarioAlto() => (this.CalcularSalario() > 10000);
     }
 }

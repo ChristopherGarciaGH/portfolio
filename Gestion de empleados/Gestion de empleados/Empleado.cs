@@ -48,7 +48,7 @@ namespace Gestion_de_empleados
 
         public override string ToString()
         {
-            return $"Id: {Id} Nombre: {Nombre} Salario Base: {SalarioBase} Suplidos{Suplidos}";
+            return $"Id: {Id} Nombre: {Nombre} Salario Base: {SalarioBase} Suplidos: {Suplidos}";
         }
     }
 }
