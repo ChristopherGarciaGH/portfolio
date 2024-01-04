@@ -9,10 +9,9 @@ namespace Gestion_de_empleados
     /*
      * Generic Class:
      * Haciendo uso del polimorfismo, esta tipo de clase nos permite
-     * trabajar con distintos tipos de datos (int, String, Double..)
+     * trabajar con distintos tipos de objetos
      * sin tener que crear una clase especifica para cada tipo de
      * dato.
-     * 
      */
     public class CalculadoraSalario<T> where T : Empleado, Isalario
     {
