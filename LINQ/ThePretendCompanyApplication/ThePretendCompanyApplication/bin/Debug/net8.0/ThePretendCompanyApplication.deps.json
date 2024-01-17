@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThePretendCompanyApplication/1.0.0": {
+        "dependencies": {
+          "TCPData": "1.0.0",
+          "TCPExtensions": "1.0.0"
+        },
+        "runtime": {
+          "ThePretendCompanyApplication.dll": {}
+        }
+      },
+      "TCPData/1.0.0": {
+        "runtime": {
+          "TCPData.dll": {}
+        }
+      },
+      "TCPExtensions/1.0.0": {
+        "runtime": {
+          "TCPExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThePretendCompanyApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCPData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCPExtensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
