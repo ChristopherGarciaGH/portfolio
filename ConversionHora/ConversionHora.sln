@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionHora", "ConversionHora\ConversionHora.csproj", "{FBA23388-0E60-4184-8222-6B26643AFC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA23388-0E60-4184-8222-6B26643AFC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA23388-0E60-4184-8222-6B26643AFC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA23388-0E60-4184-8222-6B26643AFC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA23388-0E60-4184-8222-6B26643AFC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61BB55FF-90B2-442B-82DA-91F83E5DAC3A}
+	EndGlobalSection
+EndGlobal

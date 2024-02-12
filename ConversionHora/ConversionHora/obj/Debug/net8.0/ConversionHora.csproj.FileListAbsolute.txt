@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\bin\Debug\net8.0\ConversionHora.exe
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\bin\Debug\net8.0\ConversionHora.deps.json
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\bin\Debug\net8.0\ConversionHora.runtimeconfig.json
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\bin\Debug\net8.0\ConversionHora.dll
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\bin\Debug\net8.0\ConversionHora.pdb
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.sourcelink.json
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.dll
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\refint\ConversionHora.dll
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.pdb
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ConversionHora.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Escritorio\Roadmap\App\ConversionHora\ConversionHora\obj\Debug\net8.0\ref\ConversionHora.dll
